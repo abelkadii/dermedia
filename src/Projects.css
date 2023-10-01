@@ -1,0 +1,7 @@
+.projects{
+    margin-top: 30px;
+    padding: var(--padding);;
+}
+.projects__body{
+    padding: 50px;
+}
